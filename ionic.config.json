@@ -1,0 +1,7 @@
+{
+  "name": "ionic-magic-eightball",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
