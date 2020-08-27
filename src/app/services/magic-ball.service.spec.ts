@@ -2,6 +2,7 @@ import { TestBed } from '@angular/core/testing';
 
 import { MagicBallService } from './magic-ball.service';
 
+let magicBall = null;
 
 describe('MagicBallService', () => {
   let service: MagicBallService;
